@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoreScreen</string>
+    <string name="arg">Флаг Аргентины:</string>
+    <string name="br">Флаг Бразилии:</string>
+    <string name="ch">Флаг Чили:</string>
+    <string name="co">Флаг Колумбии:</string>
+    <string name="ur">Флаг Уругвая:</string>
+</resources>
